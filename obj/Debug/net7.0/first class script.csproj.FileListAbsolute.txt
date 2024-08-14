@@ -1,0 +1,15 @@
+C:\Users\0220482413049\source\repos\first class sript\first class sript\bin\Debug\net7.0\first class script.exe
+C:\Users\0220482413049\source\repos\first class sript\first class sript\bin\Debug\net7.0\first class script.deps.json
+C:\Users\0220482413049\source\repos\first class sript\first class sript\bin\Debug\net7.0\first class script.runtimeconfig.json
+C:\Users\0220482413049\source\repos\first class sript\first class sript\bin\Debug\net7.0\first class script.dll
+C:\Users\0220482413049\source\repos\first class sript\first class sript\bin\Debug\net7.0\first class script.pdb
+C:\Users\0220482413049\source\repos\first class sript\first class sript\obj\Debug\net7.0\first class script.csproj.AssemblyReference.cache
+C:\Users\0220482413049\source\repos\first class sript\first class sript\obj\Debug\net7.0\first class script.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0220482413049\source\repos\first class sript\first class sript\obj\Debug\net7.0\first class script.AssemblyInfoInputs.cache
+C:\Users\0220482413049\source\repos\first class sript\first class sript\obj\Debug\net7.0\first class script.AssemblyInfo.cs
+C:\Users\0220482413049\source\repos\first class sript\first class sript\obj\Debug\net7.0\first class script.csproj.CoreCompileInputs.cache
+C:\Users\0220482413049\source\repos\first class sript\first class sript\obj\Debug\net7.0\first class script.dll
+C:\Users\0220482413049\source\repos\first class sript\first class sript\obj\Debug\net7.0\refint\first class script.dll
+C:\Users\0220482413049\source\repos\first class sript\first class sript\obj\Debug\net7.0\first class script.pdb
+C:\Users\0220482413049\source\repos\first class sript\first class sript\obj\Debug\net7.0\first class script.genruntimeconfig.cache
+C:\Users\0220482413049\source\repos\first class sript\first class sript\obj\Debug\net7.0\ref\first class script.dll
